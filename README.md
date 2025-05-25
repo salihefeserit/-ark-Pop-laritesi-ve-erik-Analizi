@@ -47,5 +47,6 @@ Bu Repo'da Spotify şarkı verilerini içeren bir veri seti kullandım
 ## Linkler
 ---
 [Kaggle Notebook](https://www.kaggle.com/code/salihefeerit/analyzing-popularity-and-content-sensitivity)
+
 [Veriseti](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
 
