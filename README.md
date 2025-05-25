@@ -23,7 +23,7 @@ Popüler Şarkılar üzerinde içerik analizi ve müzikal eğilimler araştırı
 - Bu modeller üzerinde **Çapraz Doğrulama (Cross Validation)** yapıldı ve birbirleri ile karşılaştırıldı.
 - En düşük hata (RMSE)'ye sahip olan **Random Forest Regressor** üzerinde **Hiperparametre Optimizasyonu** yapmaya çalışıldı.
 - Bu optimizasyon sonucunda küçük de olsa hatadan kazanç elde edildi.
-#### Classification Problemi
+#### Sınıflandırma Problemi
 - Sürekli değerler içermeyen **explicit** etiketi için farklı sınıflandırma modelleri ile tahminler yapıldı.
 - Bu modeller için **Accuracy**, **Precision**, **Recall** ve **f1-score** gibi metrikleri gösteren **Sınıflandırma Raporları** oluşturuldu ve görselleştirildi.
 - Aynı modellerde tahminleri kullanarak **Karışıklık Matris**'leri oluşturuldu.
