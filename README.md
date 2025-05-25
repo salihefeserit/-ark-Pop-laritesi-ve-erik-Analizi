@@ -1,5 +1,4 @@
 ## Giriş
----
 Bu Repo'da Spotify şarkı verilerini içeren bir veri seti kullandım
 ### Data Cleaning
 - Bu veri seti üzerinde sayısal değere dönüştürülemeyen **track_name** özellikleri gibi NaN değerler içeren satırlar veri setinden temizlendi.
