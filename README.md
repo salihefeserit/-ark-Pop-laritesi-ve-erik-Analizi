@@ -1,5 +1,6 @@
 ## Giriş
-Bu Repo'da Spotify şarkı verilerini içeren bir veri seti kullandım
+Bu projede Spotify şarkı verilerini içeren bir veriseti kullandım.
+Popüler Şarkılar üzerinde içerik analizi ve müzikal eğilimler araştırılmıştır.
 ### Data Cleaning
 - Bu veri seti üzerinde sayısal değere dönüştürülemeyen **track_name** özellikleri gibi NaN değerler içeren satırlar veri setinden temizlendi.
 - Aynı şekilde eğitilecek modelleri olumsuz etkileyebilecek tekrarlayan veriler temizlendi.
